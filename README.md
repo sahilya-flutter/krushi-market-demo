@@ -14,11 +14,11 @@ Krushi Market is a real-world agriculture platform built to help farmers in Maha
 
 ---
 
-##  Screenshots
+##  Screenshot
 
 ![Home](screenshots/home.jpeg)
 ![News](screenshots/news.jpeg)
-![Mandi](screenshots/mandi.jpeg)
+![Mandi](screenshots/mandibhav.jpeg)
 
 ---
 
